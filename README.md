@@ -2,7 +2,7 @@
 
 # 🏛️ ADGM Corporate Agent - Vision LLM Legal Document Analysis
 
-[![Python](https://img.shields.ios://imgs://img.shields.io/badge/Qdrant-Cloud-green//img.shields.io/badge/LLM-Llama--4--Scout--17B-re Legal Document Analysis System for Abu Dhabi Global Market (ADGM) Compliance**
+**Legal Document Analysis System for Abu Dhabi Global Market (ADGM) Compliance**
 
 The ADGM Corporate Agent is an AI-powered legal compliance system that uses Vision LLM technology to analyze DOCX documents for ADGM regulatory compliance. It combines multimodal document understanding with a comprehensive knowledge base of ADGM regulations to provide detailed compliance analysis, red flag detection, and inline legal commentary with specific law citations.
 
