@@ -2,7 +2,7 @@
 
 # 🏛️ ADGM Corporate Agent - Enhanced Legal Document Analysis
 
-[![Python](https://img.shields.ios://img.shields.iog.shieldsd AI-powered legal document analyzer specifically designed for **Abu Dhabi Global Market (ADGM)** compliance verification. This system combines **vector similarity search** with **Vision LLM analysis** to provide comprehensive legal document review with inline citations and ADGM regulatory compliance checking.
+AI-powered legal document analyzer specifically designed for **Abu Dhabi Global Market (ADGM)** compliance verification. This system combines **vector similarity search** with **Vision LLM analysis** to provide comprehensive legal document review with inline citations and ADGM regulatory compliance checking.
 
 ## 🎯 Key Features
 
