@@ -1,0 +1,19 @@
+{
+  "created_timestamp": "2025-08-12T01:18:49.121421",
+  "total_images": 4087,
+  "images_by_type": {},
+  "images_by_category": {},
+  "average_size_kb": 0,
+  "last_updated": "2025-08-12T07:49:12.710103",
+  "processing_stats": {
+    "total_images_processed": 4047,
+    "total_images_stored": 4087,
+    "total_images_failed": 41,
+    "storage_size_mb": 79.73091316223145,
+    "image_types": {
+      "pdf_embedded": 3762,
+      "table": 324,
+      "embedded": 1
+    }
+  }
+}
