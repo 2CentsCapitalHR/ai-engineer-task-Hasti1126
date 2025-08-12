@@ -191,13 +191,6 @@ preferred_models = [
 ]
 ```
 
-### **ADGM Legal References**
-Pre-configured legal citations for common compliance issues:
-- ADGM Companies Regulations 2020
-- ADGM Courts Law 2013, Art. 15
-- ADGM Arbitration Law 2015
-- ADGM AML Rules 2019
-
 ### **Document Processing Types**
 - **Company Incorporation**: Articles, Memorandum, Board Resolutions
 - **Licensing Applications**: Business Plans, Compliance Manuals
