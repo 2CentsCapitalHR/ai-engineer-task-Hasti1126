@@ -251,6 +251,3 @@ preferred_models = [
 
 **⚖️ Legal Disclaimer**: This tool provides automated analysis assistance and should not replace professional legal advice. Always consult qualified ADGM legal experts for official compliance verification.
 
-
-
-*Last Updated: August 2025 | Version 2.0 - Enhanced File Upload Edition*
